@@ -17,11 +17,14 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   go_router: ^14.6.2
+  iconsax_flutter: ^1.0.0
   intl: ^0.19.0
   recipes_api:
     path: packages/recipes_api
   recipes_repository:
     path: packages/recipes_repository
+  skeletonizer: ^1.4.3
+  step_progress_indicator: ^1.0.2
   toastification: ^2.0.0
 
 dev_dependencies:
